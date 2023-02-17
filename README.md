@@ -1,3 +1,6 @@
+# 这里是英才班的网站主页
+网页入口:https://fhc21.github.io/
+
 # project-website-template
 Demo: https://yenchiah.github.io/project-website-template/
 
